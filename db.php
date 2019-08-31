@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/wordpress_projects/alexfaissal/wp-content/plugins/query-monitor/wp-content/db.php
